@@ -1,0 +1,10 @@
+#signup{
+    font-size: 1.3em;
+    margin-bottom: 25px;
+}
+
+#signup a{
+    color: rgb(47, 103, 138);
+    text-decoration: none;
+    border-bottom: 1px solid rgb(47, 103, 138);
+}

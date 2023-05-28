@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-size: 10px;
+    background-color: aliceblue;
+    font-family: 'Libre Franklin', sans-serif;
+    color:  #4694c4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
